@@ -15,5 +15,7 @@ elif (oper == "%"):
     print("The modulus of num1 and num2 is: ", num1 % num2)
 elif (oper == "//"):
     print("The floar division of num1 and num2 is: ", num1 // num2)
+elif (oper == "**"):
+    print("Num1 is base and num2 is power Result: ", num1 ** num2)
 else:
     print("Nothing is here")
