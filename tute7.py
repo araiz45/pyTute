@@ -15,3 +15,4 @@ print(names[-5: ])
 # Quick Quiz
 nm = "Harry"
 print(nm[-4:-2])
+# Ans: ar
